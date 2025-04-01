@@ -5,6 +5,7 @@ import time
 import random
 import json
 import os
+import re
 
 class TimViecCrawler:
     def __init__(self):
@@ -185,7 +186,6 @@ class TimViecCrawler:
             
             job_title = soup.select_one('meta[property="og:title"]')['content'].split('(')[0].strip()
             job_title = str(job_title).replace("'", "").replace("[", "").replace("]", "").replace("/", "").replace('"', "") if job_title else ''
-            # Extract search city from the location information
             search_city = ""
             location_element = soup.select_one('li:contains("Khu vực tuyển dụng:")')
             if location_element:
@@ -206,6 +206,25 @@ class TimViecCrawler:
                 except:
                     pass
 
+            job_skills = []
+            if job_description:
+                desc_lower = job_description.lower()
+                for skill in self.skills:
+                    if skill.lower() in desc_lower:
+                        job_skills.append(skill)
+            
+            requirements_section = soup.select_one('.job-description')
+            if requirements_section:
+                skills_section = requirements_section.find(lambda tag: tag.name == 'h3' and 'yêu cầu' in tag.text.lower())
+                if skills_section:
+                    skills_list = skills_section.find_next('ul')
+                    if skills_list:
+                        for li in skills_list.find_all('li'):
+                            li_text = li.text.strip().lower()
+                            for skill in self.skills:
+                                if skill.lower() in li_text and skill not in job_skills:
+                                    job_skills.append(skill)
+
             job_type = ""
             if job_description_element:
                 try:
@@ -216,19 +235,36 @@ class TimViecCrawler:
                 except:
                     pass
             
+            job_level = ""
+            for level in self.levels:
+                if level.lower() in job_title.lower() or (job_description and level.lower() in job_description.lower()):
+                    job_level = level
+                    break
+            
+            job_location = location
+            location_pattern = r'<b>Địa điểm làm việc: </b>\s*(.*?)\s*</p>'
+            location_match = re.search(location_pattern, job_description)
+            if location_match:
+                job_location = location_match.group(1).strip()
+            
+            branch_pattern = r'<b>Ngành nghề: </b>\s*(.*?)\s*</p>'
+            branch_match = re.search(branch_pattern, job_description)
+            branch = ""
+            if branch_match:
+                branch = branch_match.group(1).strip()
+            
             job_data = {
                 'job_title': job_title,
-                'job_location': location,
+                'job_location': job_location,
                 'company': company_name,
                 'search_city': search_city,
-                'job_skills': job_skills,
-                'last_processed_time': last_processed_time,
-                'first_seen': first_seen,
-                'search_country': search_country,
-                'search_position': search_position,
+                'job_skills': ', '.join(job_skills),
+                'search_country': 'Việt Nam',
+                'search_position': '',
                 'job_level': job_level,
-                'job_branch': job_branch,
-                'job_url': job_link,  # Add job URL to the data
+                'job_type': job_type,
+                'branch': branch,
+                'job_url': url,
             }
             
             return job_data
