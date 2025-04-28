@@ -1,0 +1,199 @@
+University Teacher
+College Teacher
+Secondary Vocational and Professional School Teacher
+Upper Secondary Education Teacher
+Lower Secondary Education Teacher
+Foreign Language Teacher
+Public Relations Officer
+Lawyer
+Archivist and Curator
+Librarian and Library Clerk
+Editor/Publisher
+Social Scientist
+Archaeologist
+Historian
+Script Writer
+Journalist
+Language Specialist
+Translator and Interpreter
+Director: Film/Stage
+Announcer: Radio, Television and Other media
+Health Information Administrator
+Museologist
+Secretary
+Broadcasting and Audiovisual Technicians
+Call Centre Operator
+Tour Guide
+Marketing and Sales Assistant
+Astronomer
+Meteorologist
+Chemist
+Geologist
+Geographer
+Mathematician
+Statistician
+Actuarial Scientist
+Biologist
+Marine Scientist
+Engineer: Biotechnologist
+Biomedical Engineer
+Agricultural Scientist
+Engineer: Marine/Fishery Scientists and Aquaculturists
+Forestry Advisor
+Environmental Specialist
+Industrial Engineer
+Food and Drink Technologist
+Civil Engineer
+Automobile Engineer
+Mechanical Engineer
+Chemical Engineer
+Metallurgical Engineer
+Materials Engineer
+Electrical Engineer
+Electronics Engineer
+Engineer: Telecommunication
+Aerospace/Aeronautical Engineer
+Veterinarian
+Veterinarian technician
+Pharmacist
+Accountant
+Financial Analyst
+Administration Specialist: Oil and Gas
+Administration Specialist: Transport
+Administration Specialist: Energy Management
+Computer Scientist: Software Developer
+Economist
+International Trade (Exporter – Importer)
+Investment Banker
+Sound Engineer
+Bank Teller and Related Clerks
+Information Technology Teacher
+Graphic and Multi Media Designer
+Computer database and network administrators
+ICT technician
+Treasurer
+Packaging Technologists
+Printing Technologists
+Paper Technologists
+Garment and Related Trades Technicians
+Leather and Footwear Technologists
+Cosmetologists (Beauticians)
+Architects (Building)
+Landscape Designers/Architects
+Product/Industrial Designers
+Fashion Designers
+Cartographers and Surveyors
+Graphic and Multi Media Designers
+Draughts persons
+Photographers
+Interior Designers and Decorators
+Crafts Designers
+Fine Artists
+Commercial Artists
+Cinematographers
+Gardeners, Horticultural and Nursery Growers
+Jewelry Designers
+Potters and Related Workers
+Sign writers, Decorative Painters and Related Workers
+Handicraft Workers in Furniture and Home Furnishings Industries
+Handicraft Workers in Textile-Garment and Leather-Footwear Industries
+Machine Operators in Textile-Garment and Leather-Footwear Industries
+Allopathic Medical Doctor
+Nurse and Midwife
+Medical Doctor: Traditional Medicine
+Dentist
+Occupational Therapist
+Physiotherapist
+Dietician and Nutritionist
+Audiologist and Speech Therapist
+Pre-School Teacher
+Primary School Teacher
+Special Needs Teacher
+Administration Specialist: Small & Medium Business Management
+Agribusiness Management
+Sales and Marketing Manager
+Retail and Wholesale Manager
+Hotel/HORECA Manager
+Agriculture Manager
+Hospital Administrator
+Human Resource Manager
+Administration Specialist: Urban Management
+Labour Relations Officer
+Legal Services Specialist
+Psychologist
+Counsellor
+Career Counsellor
+Medical Technologist: Medical Imaging
+Medical Technologist: Optometry
+Medical Technologist
+Insurance Agent
+Event Manager
+Administration Specialist: Real Estate
+Social Worker
+Travel and Tourism Agent
+Air Hostess/Steward
+Food Processing Workers
+Cook
+Cook Assistant
+Waiter
+Receptionist
+Office clerk
+Aircraft Maintenance Engineer
+Engineer Mining
+Oil and Gas Engineer
+Orthotist and Prosthetist
+Mechatronics Engineer
+Merchant Navy Engineer
+Police Officer
+Dancer and Choreographer
+Civil Engineering Technician
+Irrigation technician
+Electrical Engineering Technician (Information-Communication Technology)
+Electrical Engineering Technician and Operator (Power Generation and Transmission)
+Electrical Engineering Technician (Turbines)
+Computer Hardware Technologist
+Ship Radio Officer
+Mechanical Engineering Technician (Manufacture, Assembly and Repair)
+Transport Technician
+Mining Technician
+Metallurgical Technician
+Mechanical Engineering Technician: Operator
+Petroleum and Natural Gas Refining Plant Operator
+Environmental Protection Technician
+Forester
+Merchant Navy: Mariner
+Pilot
+Air Traffic Controller
+Medical Technologist: Nuclear Medicine Technology
+Laboratory Technician
+Medical Technologist: Surgical Technology
+Dental Assistant and Therapist
+Sports Professional
+Physical Education Teacher
+Telecommunications Technician
+Fire-Fighter
+Crop Grower
+Animal Husbandry Specialist
+Apiarist and Sericulturist
+Plumber and Pipe Fitter
+Tool and Die Maker
+Carpenter and Joiner
+HVAC Technician
+Welder and Flame Cutter
+Mechanical Engineering Technician (Ship Building)
+Mechanical Technician (Metal Working)
+Auto Mechanic
+Mechanical Engineering Technician: Agricultural
+Underwater Diver
+Locomotive Driver
+Car, Taxi and Light Truck Driver
+Bus and Tram Driver
+Army officer
+Forestry Worker
+Aquaculture and Fishery Worker
+Mason
+Building Finisher
+Painter
+Electrical Installation and Repair Worker
+Electronics and Telecommunications Installation and Repair Worker
+Assembler
