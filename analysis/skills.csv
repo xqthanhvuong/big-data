@@ -22,6 +22,7 @@ azure,Azure
 Back End,Back End
 BackboneJS,BackboneJS
 Bằng lái B2,Driver's License B2
+xe hạng B2,Driver's License B2
 Bằng Lái C,Driver's License C
 Bằng Lái D,Driver's License D
 Báo Cáo Tài Chính,Financial Reporting
@@ -89,7 +90,7 @@ Giọng Nói Tốt,Good Voice
 Golang,Golang
 Google Ads,Google Ads
 Google Analytics,Google Analytics
-Ham Học Hỏi,Enthusiastic Learner
+Học Hỏi,Enthusiastic Learner
 Hardware,Hardware
 Hệ thống HA,High Availability Systems
 Hệ Thống Tổ Chức,Organizational Systems
@@ -121,17 +122,19 @@ Kiểm soát nhân lực,Human Resource Control
 Kiến thức dinh dưỡng,Nutritional Knowledge
 Kotlin,Kotlin
 Kỷ luật cao,High Discipline
-Kỹ Năng Bán Hàng,Sales Skills
-Kỹ Năng Giao Tiếp,Communication Skills
-Kỹ Năng Kinh Doanh,Business Skills
-Kỹ Năng Lý Giải,Analytical Skills
-Kỹ Năng Quản Lý,Management Skills
-Kỹ Năng Quyết Định,Decision-Making Skills
-Kỹ Năng Sư Phạm,Teaching Skills
-Kỹ Năng Tài Chính,Financial Skills
-Kỹ Năng Thuyết Trình,Presentation Skills
-kỹ thuật chăm sóc,Care Techniques
-Kỹ thuật Điện Tử,Electronic Engineering
+Bán Hàng,Sales Skills
+sale,Sale
+Giao Tiếp,Communication Skills
+Kinh Doanh,Business Skills
+business,Business Skills
+Lý Giải,Analytical Skills
+Quản Lý,Management Skills
+Quyết Định,Decision-Making Skills
+Sư Phạm,Teaching Skills
+Tài Chính,Financial Skills
+Thuyết Trình,Presentation Skills
+chăm sóc,Care Techniques
+Điện Tử,Electronic Engineering
 Làm Việc Nhóm,Teamwork
 Làm Việc Độc Lập,Independent Work
 LAN,LAN
@@ -140,7 +143,7 @@ Lập Kế Hoạch,Planning
 Lập Trình iOS,iOS Programming
 Laravel,Laravel
 Linux,Linux
-Logistic Solution,Logistic Solutions
+Logistic,Logistic Solutions
 Luật BHXH,Social Security Law
 Luật Doanh Nghiệp,Corporate Law
 Luật Lao Động,Labor Law
@@ -169,7 +172,7 @@ Năng Động,Dynamism
 Network,Networking
 Nghiên Cứu,Research
 Ngoại hình,Appearance
-Nhập Misa,Misa Data Entry
+Misa,Misa
 Nhiệt Huyết,Passion
 Node.js,Node.js
 NoSQL,NoSQL
@@ -191,6 +194,7 @@ Phát triển thị trường,Market Development
 phẫu thuật,Surgery
 Phiên dịch,Interpretation
 Photoshop,Photoshop
+chỉnh sửa hình ảnh,Photoshop
 PHP,PHP
 Phụ Cấp Thâm Niên,Seniority Allowance
 PLC,PLC
@@ -201,6 +205,7 @@ Proposal,Proposal
 Python,Python
 Quan hệ khách hàng,Customer Relations
 Quản Lý Dự Án,Project Management
+Project Manager,Project Management
 Quản Lý Ngân Sách,Budget Management
 Quản Lý Sản Xuất,Production Management
 Quản Lý Thiết Bị,Equipment Management
@@ -269,7 +274,7 @@ Tiếng Đức,German
 Tiếp thu nhanh,Quick Learning
 tiểu phẫu,Minor Surgery
 Tiktok,TikTok
-Tin Học Văn Phòng,Office IT
+Văn Phòng,Office
 tổ chức thi công,Construction Organization
 TOEFL,TOEFL
 TOEIC,TOEIC
@@ -320,3 +325,154 @@ Zend Framework,Zend Framework
 Đồ Họa,Graphics
 Đọc bản vẽ,Blueprint Reading
 Đọc tài liệu,Document Reading
+cơ điện,Electromechanics
+xây dựng,Civil Engineering
+hoạt bát,Lively
+siên năng,Diligence
+Smartphone,Has Smartphone
+phương tiện cá nhân,Personal Vehicle
+nấu ăn,Cooking
+làm bánh,Cooking
+vất vả,Hardworking
+Chăm chỉ,Hardworking
+Chịu khó,Hardworking
+siêng năng,Hardworking
+IRT,C-IRT
+kế toán,Accounting
+kiểm toán,Auditing
+sức khỏe tốt,Good health
+Lạnh,HVAC
+chứng chỉ bếp,C-Cooking
+Bếp,Cooking
+Việt Nam,None
+mạng xã hội,Social Media
+dệt,Weaving
+may,Weaving
+vải,Weaving
+dịch vụ khách hàng,Customer Service
+tiếp thị,Marketing
+cơ khí,Mechanical
+Hàn cắt,Welding and Cutting
+máy hàn,Welding and Cutting
+sử dụng máy tính,Computer
+ngành Y,Medical
+Kỹ năng văn phòng,Office
+Call Center,Call Center
+dễ nhìn,Good-looking
+ưa nhìn,Good-looking
+đẹp,Good-looking
+Hóa mỹ phẩm,Non Food
+Non Food,Non Food
+hòa đồng,Sociable
+dự toán,Budget Estimation
+THCS,Secondary School Graduate
+Tốt nghiệp trung cấp,Secondary School Graduate
+trung học,Secondary School Graduate
+THPT,High School Graduate
+Đại học,University Graduate
+Cao đẳng,College Graduate
+Tốt nghiệp CĐ,College Graduate
+Bảo Trì Điện,Electronic Maintenace
+Sửa chữa,Maintenace
+Giám Sát,Supervision
+Không yêu cầu kinh nghiệm,None
+QA,QA/QC
+QC,QA/QC
+SEO,SEO
+Thương Mại Quốc Tế,Trade
+Làm việc tại nhà,None
+Tuyển Dụng,HR
+Quản Trị Nhân Sự,HR
+HR,HR
+Chế Tạo Máy,Mechanical Manufacturing
+Vận Hành Máy,Machine Operation
+An Toàn Lao Động,Occupational Safety
+Thư Ký,Secretary
+Giáo Dục Mầm Non,Early Childhood Education
+Giáo Dục Phổ Thông,General Education
+Thu Mua,Procurement
+Tìm Nguồn Hàng,Sourcing
+Định Mức,Cost Estimation
+Branding,Branding
+Sự kiện,Event Management
+Du Lịch,Tourism
+Đấu Thầu,Tendering
+Luật,Law
+Pháp Chế,Legal Affairs
+IT Support,IT Support
+Quản Trị Hệ Thống,System Administration
+Quản Trị Mạng,Network Administration
+Shipper,Shipper
+Lái Xe,Driving
+Chứng Từ,Documentation
+Kiến Trúc,Architecture
+Receptionist,Receptionist
+Điều Dưỡng,Nurse
+Xuất Bản,Publishing
+Nội Dung,Content
+Truyền Thông,Media
+Báo Chí,Journalism
+Bảo Vệ,Guard
+Môi Trường,Environmental
+Xử Lý Chất Thải,Waste Management
+Dầu Khí,Petroleum
+Hóa Học,Chemistry
+Hóa Chất,Chemicals
+IT Helpdesk,IT Helpdesk
+Vật Tư Sản Xuất,Production Materials
+Bất Động Sản,Real Estate
+Bưu Chính Viễn Thông,Postal and Telecommunications
+Công Nhân,Labor/Worker
+Mộc,Carpentry
+Đồ Gỗ,Woodworking
+Thi Công,Construction
+Xử Lý Nợ,Debt Collection
+Kỹ Sư Cầu Nối,Bridge Engineer
+Kiểm Soát Nội Bộ,Internal Control
+Phần Cứng Máy Tính,Computer Hardware
+Điều Phối Viên,Coordinator
+Barista,Barista
+Bartender,Bartender
+Giảng Viên,Lecturer/Instructor
+Ngoại Ngữ,Foreign Languages
+Trợ Giảng,Teaching Assistant
+Lâm Nghiệp,Forestry
+Trồng Trọt,Crop Cultivation
+Vận Hành Sản Xuất,Production Operations
+Xuất Nhập Khẩu,Import/Export
+Thực Phẩm - Ăn uống,Food and Beverage
+Chế Biến Thực Phẩm,Food Processing
+Vận Tải,Transportation
+Giao Nhận Hàng,Freight Forwarding
+Phụ Kho,Warehouse Assistant
+Thủ Kho,Warehouse Keeper
+Hàng Không/Sân Bay,Aviation/Airport
+Hàng Hải,Maritime
+Tổng Đài Viên,Call Center Agent
+Kỹ Thuật Công Nghiệp,Industrial Engineering
+Hàng Hải,Maritime
+Phục Vụ Bàn,Waitstaff/Server
+Trưởng Nhóm,Manager
+Trưởng Phòng,Manager
+Dựng Phim,Film Editing
+Hiệu Ứng Video,Video Effects
+An Ninh Mạng,Cybersecurity
+Nha Khoa,Dentistry
+Lao Công,Labor
+Tạp Vụ,Cleaning/Housekeeping
+Nghệ Thuật,Artics
+Nhân Viên/Chuyên Viên,Staff/Professional
+Sơn,Painting
+Thú Y,Veterinary
+Chăn Nuôi,Animal Husbandry
+Android,Android
+iOS,iOS
+Full-stack,Full-stack
+UI/UX,UI/UX
+Thẩm Định Tín Dụng,Credit Assessment
+Trắc Địa,Surveying
+Quản Trị Rủi Ro,Risk Management
+Địa Chất,Geology
+Tuyển Sinh,Recruitment
+Tour,Tour Guild
+Hàn Xì,Welding
